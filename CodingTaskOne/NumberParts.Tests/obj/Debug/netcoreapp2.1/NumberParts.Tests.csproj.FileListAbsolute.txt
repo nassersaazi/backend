@@ -1,0 +1,17 @@
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\obj\Debug\netcoreapp2.1\NumberParts.Tests.csprojAssemblyReference.cache
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\obj\Debug\netcoreapp2.1\NumberParts.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\obj\Debug\netcoreapp2.1\NumberParts.Tests.AssemblyInfoInputs.cache
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\obj\Debug\netcoreapp2.1\NumberParts.Tests.AssemblyInfo.cs
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\bin\Debug\netcoreapp2.1\NumberParts.Tests.deps.json
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\bin\Debug\netcoreapp2.1\NumberParts.Tests.runtimeconfig.json
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\bin\Debug\netcoreapp2.1\NumberParts.Tests.runtimeconfig.dev.json
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\bin\Debug\netcoreapp2.1\NumberParts.Tests.dll
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\bin\Debug\netcoreapp2.1\NumberParts.Tests.pdb
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\bin\Debug\netcoreapp2.1\NumberPartsLibrary.dll
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\bin\Debug\netcoreapp2.1\NumberPartsLibrary.pdb
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\obj\Debug\netcoreapp2.1\NumberParts.Tests.csproj.CopyComplete
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\obj\Debug\netcoreapp2.1\NumberParts.Tests.dll
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts.Tests\obj\Debug\netcoreapp2.1\NumberParts.Tests.pdb

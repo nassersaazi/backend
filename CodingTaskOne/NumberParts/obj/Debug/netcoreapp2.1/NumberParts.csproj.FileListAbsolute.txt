@@ -1,0 +1,14 @@
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\bin\Debug\netcoreapp2.1\NumberParts.deps.json
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\bin\Debug\netcoreapp2.1\NumberParts.runtimeconfig.json
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\bin\Debug\netcoreapp2.1\NumberParts.runtimeconfig.dev.json
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\bin\Debug\netcoreapp2.1\NumberParts.dll
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\bin\Debug\netcoreapp2.1\NumberParts.pdb
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\bin\Debug\netcoreapp2.1\NumberPartsLibrary.dll
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\bin\Debug\netcoreapp2.1\NumberPartsLibrary.pdb
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\obj\Debug\netcoreapp2.1\NumberParts.csprojAssemblyReference.cache
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\obj\Debug\netcoreapp2.1\NumberParts.csproj.CoreCompileInputs.cache
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\obj\Debug\netcoreapp2.1\NumberParts.AssemblyInfoInputs.cache
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\obj\Debug\netcoreapp2.1\NumberParts.AssemblyInfo.cs
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\obj\Debug\netcoreapp2.1\NumberParts.csproj.CopyComplete
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\obj\Debug\netcoreapp2.1\NumberParts.dll
+C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberParts\obj\Debug\netcoreapp2.1\NumberParts.pdb
