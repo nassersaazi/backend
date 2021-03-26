@@ -7,3 +7,12 @@ C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberPartsLibrar
 C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberPartsLibrary\obj\Debug\netstandard2.0\NumberPartsLibrary.AssemblyInfo.cs
 C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberPartsLibrary\obj\Debug\netstandard2.0\NumberPartsLibrary.dll
 C:\Users\nasser\Documents\personal\CodingTaskOne\CodingTaskOne\NumberPartsLibrary\obj\Debug\netstandard2.0\NumberPartsLibrary.pdb
+C:\Users\nasser\Documents\personal\backend\CodingTaskOne\NumberPartsLibrary\bin\Debug\netstandard2.0\NumberPartsLibrary.deps.json
+C:\Users\nasser\Documents\personal\backend\CodingTaskOne\NumberPartsLibrary\bin\Debug\netstandard2.0\NumberPartsLibrary.dll
+C:\Users\nasser\Documents\personal\backend\CodingTaskOne\NumberPartsLibrary\bin\Debug\netstandard2.0\NumberPartsLibrary.pdb
+C:\Users\nasser\Documents\personal\backend\CodingTaskOne\NumberPartsLibrary\obj\Debug\netstandard2.0\NumberPartsLibrary.csprojAssemblyReference.cache
+C:\Users\nasser\Documents\personal\backend\CodingTaskOne\NumberPartsLibrary\obj\Debug\netstandard2.0\NumberPartsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nasser\Documents\personal\backend\CodingTaskOne\NumberPartsLibrary\obj\Debug\netstandard2.0\NumberPartsLibrary.AssemblyInfoInputs.cache
+C:\Users\nasser\Documents\personal\backend\CodingTaskOne\NumberPartsLibrary\obj\Debug\netstandard2.0\NumberPartsLibrary.AssemblyInfo.cs
+C:\Users\nasser\Documents\personal\backend\CodingTaskOne\NumberPartsLibrary\obj\Debug\netstandard2.0\NumberPartsLibrary.dll
+C:\Users\nasser\Documents\personal\backend\CodingTaskOne\NumberPartsLibrary\obj\Debug\netstandard2.0\NumberPartsLibrary.pdb
